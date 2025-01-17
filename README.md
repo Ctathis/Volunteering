@@ -31,11 +31,11 @@ The Volunteering Platform API provides a backend solution for managing events, u
 2. Configure the database in `application.properties` or `application.yml`:
    ```properties
    spring.datasource.url=jdbc:mysql://localhost:3306/volunteering
-spring.datasource.username=root
-spring.datasource.password=password
-spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
+   spring.datasource.username=root
+   spring.datasource.password=password
+   spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
 
-# --- JPA / Hibernate ---
+   # --- JPA / Hibernate ---
 spring.jpa.hibernate.ddl-auto=update
 spring.jpa.show-sql=true
 
