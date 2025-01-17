@@ -93,10 +93,3 @@ mvn test
 4. Push to the branch: `git push origin feature/new-feature`
 5. Create a pull request.
 
-## License
-This project is licensed under the Apache 2.0 License. See the [LICENSE](LICENSE) file for details.
-
----
-
-For any questions or issues, please contact the [Support Team](mailto:support@volunteering.com).
-
