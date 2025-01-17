@@ -35,9 +35,8 @@ The Volunteering Platform API provides a backend solution for managing events, u
    spring.datasource.password=password
    spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
 
-   # --- JPA / Hibernate ---
-spring.jpa.hibernate.ddl-auto=update
-spring.jpa.show-sql=true
+   spring.jpa.hibernate.ddl-auto=update
+   spring.jpa.show-sql=true
 
    ```
 3. Build and run the project:
